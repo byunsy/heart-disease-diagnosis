@@ -1,7 +1,7 @@
 # heart-disease-diagnosis
 
 <p align="center">
-  <img src="https://github.com/byunsy/pneumonia-classification/blob/main/images/heart.jpg" alt="image"/>
+  <img src="https://github.com/byunsy/heart-disease-diagnosis/blob/main/images/heart.JPG" alt="image"/>
 </p>
 
 ## Description
@@ -24,10 +24,10 @@ The main objective of this notebook was to explore the model analysis techniques
 ## Figures and Charts
 
 Permutation Importance
-![](images/heart.jpg)
+![](images/heart.JPG)
 
 Partial Dependence Plots
 ![](images/heart2.png)
 
 SHAP Values
-![](images/heart3.png)
+![](images/heart3.PNG)
