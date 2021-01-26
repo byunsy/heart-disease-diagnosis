@@ -19,7 +19,7 @@ The general process for the notebook was:
 7. Model Evaluation
 8. Model Analysis
 
-The main objective of this notebook was to explore the model analysis techniques like Permutation Importance, Partial Dependence Plots, and Shapely Additive Explanations. Rather than blindly believing the model created by machine learning algorithms (SVM, Random Forest, etc), it would be much more helpful for the readers to see how specific features affect the model.
+The main objective of this notebook was to explore model analysis techniques like Permutation Importance, Partial Dependence Plots, and Shapely Additive Explanations. Rather than blindly believing the model created by machine learning algorithms (SVM, Random Forest, etc), it would be much more helpful for the readers to see how specific features affect the model.
 
 ## Figures and Charts
 
